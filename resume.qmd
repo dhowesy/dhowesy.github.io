@@ -1,89 +1,83 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dalin Howes CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Dalin Howes
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+
+<div id="webaddress"> 
+| <a href="https://www.linkedin.com/in/dalin-howes-3b07712b3/">My wikipedia page</a>
 </div>
 
 
-## Currently
+Dalin Howes
 
-Standing on the shoulders of giants
+916-532-8624 | dalinhowes16@gmail.com | www.linkedin.com/in/dalin-howes-3b07712b3
 
-### Specialized in
+EDUCATION
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+• Member of the Student Accounting Society.
+Brigham Young University - Idaho Rexburg, Idaho
+Accounting with Minor in Data Science January 2024 - August 2025
 
+• GPA 4.0 in Financial Accounting 1, 2 and Managerial Accounting.
+• Overall, 3.86 GPA with all A's and 1 C.
+• Presidents Honor Role for Sierra College.
+Sierra College Rocklin, California
+BusniessAdministration for Transfer December 2022 - December 2023
 
-### Research interests
+## PROFESSIONAL EXPERIENCE
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+• Lowered wages expense by 15% with more efficient scheduling. Cutting unnecessary hours by organizing and overtime management.
+• Enforced labor laws among employees to avoid unnecessary fees and penalties saving company thousands in fees/penalties.
+• Modified Loading and Crew management by creating a organization system for storage and retrieval of equipment reducing load time
+by 50%.
+Inflatable Adventures Inc. Antelope, CA
+Crew Leader and Load Manager July 2022 - December 2023
 
+• Provided a clean work environment and gained a much stronger work ethic. Saved 1 hour worth of clean up each day allowing more
+experienced crew members to focus on thier job.
+Sierra Single Ply Sacramento, CA
+Roofing Apprentice February 2022 - July 2022
 
-## Education
+• Learned self discipline and motivation to accomplish work goals by decreasing t-shirt production time by 1 day.
+Palmer Signs Roseville, CA
+T-Shirt Printing Technician for Palmer Signs September 2019 - December 2019
 
-`1654-1660`
-__The King's School, Grantham.__
+• Instructed team of 10 on provision of first aid, communicating emergency procedure of CPR to 60+ trainees.
+• Conducted assessment through cpr demonstrations, ensuring 100% accuracy.
+• Completed all instructing courses for swim lessons achieving RSI 2 certification. Coached competitive swim in highschool.
+City of Roseville Roseville, CA
+Senior Lifeguard/Swim Instructor for City of Roseville (CPR Certified) May 2016 - September 2019
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## VOLUNTEER EXPERIENCE
 
-- Sizar
+• Learned project management by overseeing 5 service projects and 1 large service project to achieve rank.
+• Earned 21 Merrit badges.
+Boy Scouts of America Roseville, CA
+Eagle Scout Rank March 2019
 
-`1667 - death`
-__Trinity College, Cambridge__
+• Held weekly training meetings to train missionaries on how to teach and communicate.
+• Fostered environment of teamwork and cooperation through teaching and goal setting resulting in a 75% increase in people being
+taught.
+Canada Vancouver Mission British Columbia, Canada
+District and Zone Leader May 2020 - January 2022
 
-- Fellow
+• Analysed advertising data patterns over 1 year, offering advertising consulting to team of 6 ad designers; formulated relaunch strategy
+of online advertisement, increasing dollars per lead by 30%.
+Canada Vancouver Mission Surrey, British Columbia
+Social Media Specialist May 2020 - May 2021
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Built the Advertising arm of the Canada Vancouver Mission.
+- Competent in teamwork environments and leadership roles from career in management at Inflatable Adventures.
+- Optimized each dollar spent on advertising to achieve low cost-per-lead.
+- Maintain the highest degree of character integrity and honesty.
+- Experience in employee management and conflict resolution in workplace.
+- Familiar with Excell and basic programming with Python, R, and MySQL.
+- Aspiring accountant with 2 years of education from Sierra College in accounting program.
+- Knowledge of development and application of advertising on Facebook Business and Google Advertisements.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2024 -->
